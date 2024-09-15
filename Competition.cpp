@@ -1,9 +1,3 @@
-//Author: Jackie Lin
-//Course: CSCI-135
-//Instructor: Professor Tong Yi
-//Assignement: Project 3 Task D
-
-
 //This program
 
 #include <iostream>
