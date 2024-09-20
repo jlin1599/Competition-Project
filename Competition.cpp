@@ -1,5 +1,3 @@
-//This program
-
 #include <iostream>
 #include "Competition.hpp"
 #include <cstdlib>
